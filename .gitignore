@@ -1,5 +1,5 @@
 # Keep these files out of the repo
-themes/resources
+/themes/resources
 settings.php
 
 # Hidden files
